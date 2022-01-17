@@ -15,7 +15,7 @@
      justify-content: center;
  }
  .b{
-width: 1200px;
+width: 1250px;
      height: 400px;
      background: silver;
      display: flex;
@@ -23,44 +23,45 @@ width: 1200px;
      justify-content: center;
  }
  .c{
-     width: 350px;
+     width: 385px;
      height: 400px;
      background: silver;
      display: flex;
      align-items: center;
      justify-content: center;
-     margin-top: -500px;
+     margin-top: -450px;
 
  }
  .d{
-     width: 350px;
+     width: 385px;
      height: 400px;
      background: silver;
      display: flex;
      align-items: center;
      justify-content: center;
-     margin-top: -500px;
-     margin-left: 50px;
-     margin-right: 50px;
+     margin-top: -450px;
+     margin-left: 48px;
+     margin-right: 48px;
 
  }
  .e{
-     width: 350px;
+     width: 385px;
      height: 400px;
      background: silver;
      display: flex;
      align-items: center;
      justify-content: center;
-     margin-top: -500px;
+     margin-top: -450px;
+
  }
  .f{
 width: 600px;
-     height: 900px;
+     height: 850px;
      background: silver;
      display: flex;
      align-items: center;
      justify-content: center;
-     margin-left: 100px;
+     margin-left: 40px;
  }
 
 
